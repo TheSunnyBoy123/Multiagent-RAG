@@ -1,0 +1,5 @@
+name: rerag-data-solution-accelerator
+metadata:
+  template: rerag-solution-accelerator@1.7.0
+infra:
+    provider: "bicep"
